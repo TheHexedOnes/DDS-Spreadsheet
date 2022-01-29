@@ -1,8 +1,12 @@
 # DDS-Spreadsheet
 Drug Dealer Simulator Spreadsheet
 
+# What is it?
+The Drug Dealer Simulator Spreadsheet is a spreadsheet that I have created to help me manage my drug empire for Drug Dealer Simulator.
+I created this because I have so many notes up on my computer when I play the game so I just have everything all in one file.
 
-# This is a spreadsheet that I created to use while Playing Drug Dealer Simulator
-You may add and remove orders for a run.
-You can manage your inventory of multiple places.
+# Features
+You can add orders for a run.
+Delete all orders to get ready for another run.
+You can manage your inventory for multiple places.
 Notes that helped me mix.
