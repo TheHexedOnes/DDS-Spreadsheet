@@ -6,4 +6,4 @@ I created this because I have so many notes up on my computer when I play the ga
 * You can add orders for a run.
 * Delete all orders to get ready for another run.
 * You can manage your inventory for multiple places.
-* Notes that helped me mix.
+* Notes that helped me mix. Which you can change the notes to what you need.
