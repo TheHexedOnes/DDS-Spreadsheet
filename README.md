@@ -7,3 +7,4 @@ I created this because I have so many notes up on my computer when I play the ga
 * Delete all orders to get ready for another run.
 * You can manage your inventory for multiple places.
 * Notes that helped me mix. Which you can change the notes to what you need.
+* You can change the names of the drugs to whatever you like. Just make sure you change them on all of the pages.
